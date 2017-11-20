@@ -14,5 +14,6 @@
   "repository": {},
   "engines": {
     "node": "0.12.x"
-  }
+  },
+  "license": "MIT"
 }
